@@ -100,6 +100,7 @@ Desenvolver um sistema **Full Stack Web** capaz de:
 
 ```` 
 ### Estrutura do projeto
+````git hub
 Just-in-Time/
 │
 ├── backend/
@@ -122,9 +123,9 @@ Just-in-Time/
 │   └── js/
 │
 └── README.md
-```
+```git hub
 
-````
+````git hub
 ### Schema.Prismas
 
 generator client {
@@ -173,6 +174,7 @@ enum TipoMovimentacao {
   FABRICADO
   PEDIDO
 }
+```git hub
 
 ````
 ### Projeto acadêmico

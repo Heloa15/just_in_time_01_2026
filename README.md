@@ -194,7 +194,5 @@ enum TipoMovimentacao {
 
 
 
-````
 ### Projeto acadêmico
-
 - > Projeto desenvolvido como parte da Preparação SAEP 2026 – SENAI.

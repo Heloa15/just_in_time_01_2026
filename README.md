@@ -125,9 +125,11 @@ Just-in-Time/
 └── README.md
 ```git hub
 
-````git hub
-### Schema.Prismas
 
+````
+### Schema.Prisma
+
+````git hub
 generator client {
   provider = "prisma-client-js"
 }

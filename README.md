@@ -182,16 +182,14 @@ enum TipoMovimentacao {
 
 ````
 ### Evidências do Frontend 
+  - > Tela 1
+![Tela 1](Tela1.png)
 
-!(Tela .png)[Tela 1]
-  
-![Tela 1](Tela2.png)
+- > Tela 2 
+![Tela 2](Tela2.png)
 
-
-
-
-
-
+- > Tela 3
+![Tela 2](Tela3.png)
 
 
 ### Projeto acadêmico
